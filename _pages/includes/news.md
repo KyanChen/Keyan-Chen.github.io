@@ -1,6 +1,6 @@
 # 🔥 News
 - *2025.01*: FunSR and RSMamba becomes **<font color="red">ESI Highly Cited Papers</font>**.
-- *2024.12*: Awarded the Baosteel Scholarship Special Prize, given to ten graduate students nationwide.
+- *2024.12*: Awarded the **<font color="red">Baosteel Scholarship Special Prize</font>**, given to ten graduate students nationwide.
 - *2024.11*: STT becomes an **<font color="red">ESI Highly Cited Paper</font>**.
 - *2024.07*: RSMamba becomes a **<font color="red">Popular Article</font>** of GRSL.
 - *2024.07*: RSPrompter becomes an **<font color="red">ESI Highly Cited Paper and a Hot Paper</font>**.
